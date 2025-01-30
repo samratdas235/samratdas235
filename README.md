@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @samratdas235
-- 👀 I’m interested in ...Designing
-- 🌱 I’m currently learning UI/UX Design
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @samrat
+- 🌱 Currently i'm learning Data Analytics 
 - 📫 How to reach me ... prisamrat.i2016@gmail.com
 
 <!---
